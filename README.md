@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/3d/c9/8e/3dc98e10a8cef3affa7c30e4b79453bc.gif)](https://abdullah-abdullatif.me/)
+<img src="https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="MasterHead" data-canonical-src="https://indoanalytica.com/static/images/bannerr.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h1 align="center">Hi 👋, I'm Abdullah Abdullatif</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
