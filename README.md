@@ -1,8 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/3d/c9/8e/3dc98e10a8cef3affa7c30e4b79453bc.gif)](https://abdullah-abdullatif.me/)
 <h1 align="center">Hi 👋, I'm Abdullah Abdullatif</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-abdullatif&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-abdullatif" /> </p>
 
