@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abdullah.a.abdullatif@gmail.com**
 
-- 📄 Know about my experiences [https://abdullah-abdullatif.me](https://abdullah-abdullatif.me)
+- 📄 Know about my experiences [https://abdullah-abdullatif.com](https://abdullah-abdullatif.com)
 
 - ⚡ Fun fact **I love creativity**
 
